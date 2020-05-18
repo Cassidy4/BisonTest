@@ -1,0 +1,5 @@
+DECLARE
+    a
+BEGIN
+    a ASSIGN 2 PLUS 4;
+END

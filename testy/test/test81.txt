@@ -1,0 +1,6 @@
+DECLARE
+    n
+BEGIN
+    n ASSIGN 0 DIV 0;
+    WRITE n;
+END

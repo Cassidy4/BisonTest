@@ -1,0 +1,5 @@
+DECLARE
+    a
+BEGIN
+    a ASSIGN 0;
+END

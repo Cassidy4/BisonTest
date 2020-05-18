@@ -1,0 +1,5 @@
+Czytanie kodu.
+Skończono czytanie kodu (liczba rozkazów: 44).
+Uruchamianie programu.
+> 6
+Skończono program (koszt: 490).

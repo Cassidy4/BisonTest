@@ -1,0 +1,5 @@
+BEGIN
+    FOR i FROM 0 TO 3 DO
+        WRITE i;
+    ENDFOR
+END

@@ -1,0 +1,7 @@
+DECLARE
+    a(4:7), b
+BEGIN
+    a(5) ASSIGN 2;
+    b ASSIGN a(5);
+    WRITE b;
+END

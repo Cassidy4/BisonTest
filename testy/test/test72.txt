@@ -1,0 +1,11 @@
+DECLARE
+    a(0:3), b, c, d
+BEGIN
+    b ASSIGN 1;
+    c ASSIGN 2;
+    a(b) ASSIGN 5;
+    a(c) ASSIGN 3;
+    d ASSIGN 0;
+    a(d) ASSIGN a(c) TIMES a(b);
+    WRITE n;
+END

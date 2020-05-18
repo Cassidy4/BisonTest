@@ -1,0 +1,6 @@
+DECLARE
+    a
+BEGIN
+    a ASSIGN -2;
+    WRITE a;
+END

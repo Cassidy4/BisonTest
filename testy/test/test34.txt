@@ -1,0 +1,7 @@
+DECLARE
+    a, b, c(4:6)
+BEGIN
+    b ASSIGN 5;
+    c(b) ASSIGN b;
+    a ASSIGN c(b) MINUS b;
+END

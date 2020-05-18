@@ -1,0 +1,6 @@
+DECLARE
+    a (-5 : 10)
+BEGIN
+    a(0) ASSIGN 2;
+    WRITE a(0);
+END

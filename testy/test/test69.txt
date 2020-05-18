@@ -1,0 +1,7 @@
+DECLARE
+    n, a
+BEGIN
+    a ASSIGN 4;
+    n ASSIGN 2 TIMES a;
+    WRITE n;
+END

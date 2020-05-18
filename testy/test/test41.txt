@@ -1,0 +1,6 @@
+DECLARE
+    a (0:5), b
+BEGIN
+    b ASSIGN 3;
+    READ a(b);
+END

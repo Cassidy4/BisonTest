@@ -1,0 +1,8 @@
+DECLARE
+    a, b(2:3), c(10:15)
+BEGIN
+    b(2) ASSIGN 5;
+    c(11) ASSIGN b(2);
+    a ASSIGN c(11) PLUS b(2);
+    WRITE a;
+END

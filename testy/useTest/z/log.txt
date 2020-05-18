@@ -1,0 +1,227 @@
+./maszyna-wirtualna z/prog0.txt 
+Czytanie kodu.
+Skończono czytanie kodu (liczba rozkazów: 207).
+Uruchamianie programu.
+? 1345601
+> 1
+Skończono program (koszt: 9373).
+kamila@kamila-Latitude-3450:~/Pulpit/studia/Informatyka/Semestr5/Formalne/Kompilator/BisonTest/testy/useTest$ ./maszyna-wirtualna z/prog1.txt 
+Czytanie kodu.
+Skończono czytanie kodu (liczba rozkazów: 100).
+Uruchamianie programu.
+> 2
+> 3
+> 5
+> 7
+> 11
+> 13
+> 17
+> 19
+> 23
+> 29
+> 31
+> 37
+> 41
+> 43
+> 47
+> 53
+> 59
+> 61
+> 67
+> 71
+> 73
+> 79
+> 83
+> 89
+> 97
+Skończono program (koszt: 67112).
+kamila@kamila-Latitude-3450:~/Pulpit/studia/Informatyka/Semestr5/Formalne/Kompilator/BisonTest/testy/useTest$ ./maszyna-wirtualna z/prog2.txt 
+Czytanie kodu.
+Skończono czytanie kodu (liczba rozkazów: 337).
+Uruchamianie programu.
+? 12345678901
+> 857
+> 1
+> 14405693
+> 1
+Skończono program (koszt: 17311920).
+kamila@kamila-Latitude-3450:~/Pulpit/studia/Informatyka/Semestr5/Formalne/Kompilator/BisonTest/testy/useTest$ ./maszyna-wirtualna z/prog2.txt 
+Czytanie kodu.
+Skończono czytanie kodu (liczba rozkazów: 337).
+Uruchamianie programu.
+? 12345678903
+> 3
+> 1
+> 4115226301
+> 1
+Skończono program (koszt: 343654554).
+kamila@kamila-Latitude-3450:~/Pulpit/studia/Informatyka/Semestr5/Formalne/Kompilator/BisonTest/testy/useTest$ ./maszyna-wirtualna z/0.txt 
+Czytanie kodu.
+Skończono czytanie kodu (liczba rozkazów: 311).
+Uruchamianie programu.
+? 1
+? 0
+> 1
+> 0
+> 0
+> 0
+Skończono program (koszt: 1472).
+kamila@kamila-Latitude-3450:~/Pulpit/studia/Informatyka/Semestr5/Formalne/Kompilator/BisonTest/testy/useTest$ ./maszyna-wirtualna z/00.txt 
+Czytanie kodu.
+Skończono czytanie kodu (liczba rozkazów: 619).
+Uruchamianie programu.
+? 33
+? 7
+> 4
+> 5
+> -5
+> -2
+> 4
+> -5
+> -5
+> 2
+Skończono program (koszt: 7531).
+kamila@kamila-Latitude-3450:~/Pulpit/studia/Informatyka/Semestr5/Formalne/Kompilator/BisonTest/testy/useTest$ ./maszyna-wirtualna z/1.txt 
+Czytanie kodu.
+Skończono czytanie kodu (liczba rozkazów: 567).
+Uruchamianie programu.
+> 0
+> 1
+> -2
+> 10
+> -100
+> 10000
+> -1234567890
+? 20
+> 35
+> 15
+> -999
+> -555555555
+> 7777
+> -999
+> 11
+> 707
+> 7777
+Skończono program (koszt: 5641).
+kamila@kamila-Latitude-3450:~/Pulpit/studia/Informatyka/Semestr5/Formalne/Kompilator/BisonTest/testy/useTest$ ./maszyna-wirtualna z/2.txt 
+Czytanie kodu.
+Skończono czytanie kodu (liczba rozkazów: 217).
+Uruchamianie programu.
+? 20
+> 2427860
+Skończono program (koszt: 3782).
+kamila@kamila-Latitude-3450:~/Pulpit/studia/Informatyka/Semestr5/Formalne/Kompilator/BisonTest/testy/useTest$ ./maszyna-wirtualna z/3.txt 
+Czytanie kodu.
+Skończono czytanie kodu (liczba rozkazów: 254).
+Uruchamianie programu.
+? 20
+> 2432902008176640000
+> 6765
+Skończono program (koszt: 27404).
+kamila@kamila-Latitude-3450:~/Pulpit/studia/Informatyka/Semestr5/Formalne/Kompilator/BisonTest/testy/useTest$ ./maszyna-wirtualna z/4.txt 
+Czytanie kodu.
+Skończono czytanie kodu (liczba rozkazów: 245).
+Uruchamianie programu.
+? 20
+> 0
+Skończono program (koszt: 23852).
+kamila@kamila-Latitude-3450:~/Pulpit/studia/Informatyka/Semestr5/Formalne/Kompilator/BisonTest/testy/useTest$ ./maszyna-wirtualna z/5.txt 
+Czytanie kodu.
+Skończono czytanie kodu (liczba rozkazów: 291).
+Uruchamianie programu.
+Błąd: Wywołanie nieistniejącej komórki pamięci -155.
+kamila@kamila-Latitude-3450:~/Pulpit/studia/Informatyka/Semestr5/Formalne/Kompilator/BisonTest/testy/useTest$ ./maszyna-wirtualna z/6.txt 
+Czytanie kodu.
+Skończono czytanie kodu (liczba rozkazów: 470).
+Uruchamianie programu.
+? 234567890
+? 1234567890987654321
+? 987654321
+> 338752628
+Skończono program (koszt: 1380576).
+kamila@kamila-Latitude-3450:~/Pulpit/studia/Informatyka/Semestr5/Formalne/Kompilator/BisonTest/testy/useTest$ ./maszyna-wirtualna z/7
+Błąd: Nie można otworzyć pliku z/7
+kamila@kamila-Latitude-3450:~/Pulpit/studia/Informatyka/Semestr5/Formalne/Kompilator/BisonTest/testy/useTest$ ./maszyna-wirtualna z/7.txt 
+Czytanie kodu.
+Skończono czytanie kodu (liczba rozkazów: 138).
+Uruchamianie programu.
+? 0
+? 0
+? 0
+> 31000
+> 40900
+> 2222010
+Skończono program (koszt: 254025).
+kamila@kamila-Latitude-3450:~/Pulpit/studia/Informatyka/Semestr5/Formalne/Kompilator/BisonTest/testy/useTest$ ./maszyna-wirtualna z/7.txt 
+Czytanie kodu.
+Skończono czytanie kodu (liczba rozkazów: 138).
+Uruchamianie programu.
+? 1
+? 0
+? 2
+> 31001
+> 40900
+> 2222012
+Skończono program (koszt: 254025).
+kamila@kamila-Latitude-3450:~/Pulpit/studia/Informatyka/Semestr5/Formalne/Kompilator/BisonTest/testy/useTest$ ./maszyna-wirtualna z/8.txt 
+Czytanie kodu.
+Skończono czytanie kodu (liczba rozkazów: 97).
+Uruchamianie programu.
+? 12
+? 23
+? 34
+> 507
+> 4379
+> 0
+Skończono program (koszt: 123845).
+kamila@kamila-Latitude-3450:~/Pulpit/studia/Informatyka/Semestr5/Formalne/Kompilator/BisonTest/testy/useTest$ ./maszyna-wirtualna z/9.txt 
+Czytanie kodu.
+Skończono czytanie kodu (liczba rozkazów: 402).
+Uruchamianie programu.
+> 1
+> 14
+> 12
+> 7
+> 6
+> 15
+> 3
+> 19
+> 13
+> 21
+> 18
+> 22
+> 9
+> 11
+> 16
+> 17
+> 8
+> 20
+> 4
+> 10
+> 2
+> 5
+> 1234567890
+> 1
+> 2
+> 3
+> 4
+> 5
+> 6
+> 7
+> 8
+> 9
+> 10
+> 11
+> 12
+> 13
+> 14
+> 15
+> 16
+> 17
+> 18
+> 19
+> 20
+> 21
+> 22
+Skończono program (koszt: 94552).
+

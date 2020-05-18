@@ -1,0 +1,6 @@
+DECLARE
+    a, b
+BEGIN
+    b ASSIGN -5;
+    a ASSIGN -2;
+END

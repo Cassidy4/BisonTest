@@ -1,0 +1,8 @@
+DECLARE
+    a, b, c
+BEGIN
+    b ASSIGN 5;
+    c ASSIGN b;
+    a ASSIGN c PLUS b;
+    WRITE a;
+END

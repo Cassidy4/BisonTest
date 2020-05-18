@@ -1,0 +1,11 @@
+DECLARE
+    a(0:1)
+BEGIN
+    a(1) ASSIGN 1;
+    IF a(1) NEQ 1 THEN
+        WRITE 2;
+    ENDIF
+    IF a(1) NEQ 0 THEN
+        WRITE 1;
+    ENDIF
+END

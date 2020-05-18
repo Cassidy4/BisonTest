@@ -1,0 +1,7 @@
+DECLARE
+    a, b
+BEGIN
+    b ASSIGN 5;
+    a ASSIGN b MINUS 2;
+    WRITE a;
+END

@@ -1,0 +1,8 @@
+DECLARE
+    a, b(-4:-3), c
+BEGIN
+    c ASSIGN -3;
+    b(c) ASSIGN 5;
+    a ASSIGN 2 MINUS b(c);
+    WRITE a;
+END

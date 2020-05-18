@@ -1,0 +1,11 @@
+BEGIN
+    IF 0 GE 1 THEN
+        WRITE 2;
+    ENDIF
+    IF 1 GE 0 THEN
+        WRITE 1;
+    ENDIF
+    IF 1 GE 1 THEN
+        WRITE 0;
+    ENDIF
+END

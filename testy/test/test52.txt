@@ -1,0 +1,21 @@
+DECLARE
+    a, b, c(0:1), d(1:2), e
+BEGIN
+    a ASSIGN 1;
+    b ASSIGN a;
+    e ASSIGN b PLUS 1;
+    c(a) ASSIGN b MINUS 1;
+    d(e) ASSIGN 1;
+    IF b NEQ d(e) THEN
+        WRITE 2;
+    ENDIF
+    IF c(a) NEQ a THEN
+        WRITE 1;
+    ENDIF
+    IF c(a) NEQ d(e) THEN
+        WRITE 3;
+    ENDIF
+    IF c(a) NEQ 1 THEN
+        WRITE 4;
+    ENDIF
+END

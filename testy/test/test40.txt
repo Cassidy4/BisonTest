@@ -1,0 +1,5 @@
+DECLARE
+    a (0:5)
+BEGIN
+    READ a(3);
+END

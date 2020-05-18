@@ -1,0 +1,6 @@
+DECLARE
+    a
+BEGIN
+    a ASSIGN 200;
+    WRITE a;
+END

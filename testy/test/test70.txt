@@ -1,0 +1,7 @@
+DECLARE
+    n, a(0:3)
+BEGIN
+    a(1) ASSIGN 5;
+    n ASSIGN 3 TIMES a(1);
+    WRITE n;
+END

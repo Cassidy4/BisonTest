@@ -1,0 +1,7 @@
+DECLARE
+    a, b(4:7), c
+BEGIN
+    a ASSIGN 5;
+    b(a) ASSIGN 2;
+    c ASSIGN b(a);
+END

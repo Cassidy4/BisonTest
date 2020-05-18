@@ -1,0 +1,10 @@
+DECLARE
+    a, b
+BEGIN
+    a ASSIGN 5;
+	WHILE a GE 0 DO
+	    a ASSIGN a MINUS 1;
+	    WRITE 1;
+	    
+	ENDWHILE
+END

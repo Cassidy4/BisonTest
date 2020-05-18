@@ -1,0 +1,11 @@
+DECLARE
+    a
+BEGIN
+    a ASSIGN 1;
+    IF 1 NEQ a THEN
+        WRITE 2;
+    ENDIF
+    IF 0 NEQ a THEN
+        WRITE 1;
+    ENDIF
+END

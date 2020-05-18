@@ -1,0 +1,4 @@
+[sjsa vadvd]
+ BEGIN
+    WRITE 1;
+ END

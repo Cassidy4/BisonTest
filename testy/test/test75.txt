@@ -1,0 +1,6 @@
+DECLARE
+    n
+BEGIN
+    n ASSIGN 33 DIV -7;
+    WRITE n;
+END

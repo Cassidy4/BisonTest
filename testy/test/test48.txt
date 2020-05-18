@@ -1,0 +1,13 @@
+DECLARE
+    a, b, c
+BEGIN
+    a ASSIGN 1;
+    b ASSIGN a;
+    c ASSIGN b MINUS 1;
+    IF b NEQ a THEN
+        WRITE 2;
+    ENDIF
+    IF c NEQ a THEN
+        WRITE 1;
+    ENDIF
+END

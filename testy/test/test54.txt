@@ -1,0 +1,7 @@
+BEGIN
+    IF 1 NEQ 1 THEN
+        WRITE 1;
+    ELSE
+        WRITE 2;
+    ENDIF
+END

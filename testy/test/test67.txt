@@ -1,0 +1,6 @@
+DECLARE
+    n
+BEGIN
+    n ASSIGN -2 TIMES 3;
+    WRITE n;
+END
